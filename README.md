@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Kamna-S
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Machine Learning
+
 
 
 <!---
